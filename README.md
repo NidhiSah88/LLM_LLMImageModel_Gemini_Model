@@ -70,3 +70,9 @@ This will show the exact model names available to your API key.
 
 conda activate ./venv            
 python -m streamlit run vision.py
+
+
+python -m streamlit run QAChatbot.py
+
+
+
